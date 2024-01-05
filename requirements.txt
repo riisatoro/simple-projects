@@ -1,0 +1,7 @@
+emoji
+qrcode
+pillow
+requests
+fake_useragent
+customtkinter
+packaging
